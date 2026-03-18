@@ -1,4 +1,4 @@
-module tidy
+module github.com/notevencoder/GoPetProjectProtobuff/protos/gen/go/sso
 
 go 1.25.0
 
