@@ -1,4 +1,4 @@
-module github.com/notevencoder/GoPetProjectProtobuff/protos/gen/go/sso
+module github.com/notevencoder/GoPetProjectProtobuff
 
 go 1.25.0
 
